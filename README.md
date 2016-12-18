@@ -4,7 +4,7 @@ Wind tunnel data taken for Boeing 787 and F-16 Fighting Falcon scaled-down model
 ## Data Collection
 All data was collected by undergraduate students in a low-speed wind tunnel provided by the University of Colorado Boulder. Models for the Boeing 787 (clean), F-16 (clean), and F-16 (dirty) were provided by ITLL Staff and the Aerospace Engineering department for experimental use.
 
-## Model Configuartions
+## Model Configurations
 + The <strong>F-16 Dirty</strong> model includes external fuel stores, weaponry, and other military add-ons that are considered part of the "combat design"
 + The <strong>F-16 clean</strong> and <strong>Boeing 787 clean</strong> models do not include any extra add-ons and are considered the "stock design"
 
