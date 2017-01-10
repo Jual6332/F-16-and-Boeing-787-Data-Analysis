@@ -1,5 +1,5 @@
 # F-16-and-Boeing-787-Wind-Tunnel-Testing
-Wind tunnel data taken for Boeing 787 and F-16 Fighting Falcon scaled-down models. Analysis was performed using Matlab to investigate the stability, performance, and landing speed characteristics of each design.
+A data analysis project for determining the landing speed, performance, and stability characteristics of the Boeing 787 Dreamliner and F-16 Fighting Falcon. Matlab was used to analyze the experimental data taken for each model.
 
 ## Data Collection
 All data was collected by undergraduate students in a low-speed wind tunnel provided by the University of Colorado Boulder. Models for the Boeing 787 (clean), F-16 (clean), and F-16 (dirty) were provided by ITLL Staff and the Aerospace Engineering department for experimental use.
